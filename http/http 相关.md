@@ -3,5 +3,6 @@
 3. [苹果核 - 解耦神器 —— 统跳协议和Rewrite引擎](http://pingguohe.net/2015/11/24/Navigator-and-Rewrite.html)
 4. [《客厅TV-APP HttpDNS技术接入与实战》](https://mp.weixin.qq.com/s/BVF24W6pyfhtoZo9cTbtpA)
 5. [一种基于ResponderChain的对象交换方式](https://casatwy.com/responder_chain_communication.html)
-6. ​
+6. [pod RuntimeError - [Xcodeproj] Unknown object version](https://github.com/CocoaPods/CocoaPods/issues/7458) 解决：sudo gem install xcodeproj
+7. ​
 
