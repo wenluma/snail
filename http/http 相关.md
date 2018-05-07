@@ -4,5 +4,6 @@
 4. [《客厅TV-APP HttpDNS技术接入与实战》](https://mp.weixin.qq.com/s/BVF24W6pyfhtoZo9cTbtpA)
 5. [一种基于ResponderChain的对象交换方式](https://casatwy.com/responder_chain_communication.html)
 6. [pod RuntimeError - [Xcodeproj] Unknown object version](https://github.com/CocoaPods/CocoaPods/issues/7458) 解决：sudo gem install xcodeproj
-7. ​
+7. [一个 iOS app 配置多个环境变量](https://halfrost.com/ios_multienvironments/)
+8. ​
 
