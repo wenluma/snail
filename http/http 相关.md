@@ -14,7 +14,9 @@
 
 8. ```atos -arch armv7 -o "path/target.app.dSYM/Contents/Resources/DWARF/target" -l 0xf0000 0x00c2f05c```  0xf0000基地址，0x00c2f05c运行时地址，反解crash 用
 
-9. ​
+9. [podspec 设置宏pod_target_xcconfig](https://github.com/google/protobuf/blob/master/Protobuf.podspec)
 
-   ​
+10. ​
+
+    ​
 
