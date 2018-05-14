@@ -16,7 +16,10 @@
 
 9. [podspec 设置宏pod_target_xcconfig](https://github.com/google/protobuf/blob/master/Protobuf.podspec)
 
-10. ​
+10. [delete ignore git files](https://stackoverflow.com/questions/1274057/how-to-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore)
+
+11. ​
 
     ​
+
 
