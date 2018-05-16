@@ -18,7 +18,9 @@
 
 10. [delete ignore git files](https://stackoverflow.com/questions/1274057/how-to-make-git-forget-about-a-file-that-was-tracked-but-is-now-in-gitignore)
 
-11. ​
+11. git push --delete origin 0.1.5 #删除远端标签 0.1.5 , git push --tags更新标签
+
+12. ​
 
     ​
 
