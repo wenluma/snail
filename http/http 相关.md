@@ -22,6 +22,9 @@
 
 12. [Web socket 抓包 wireshake](https://www.jianshu.com/p/eeb7fd12ef11)  filter:  ip.dst == 10.210.136.100 and tcp.port eq 8189 and websocket
 
+13. Remote virtual interface 的使用，1. mac 链接 iphone； 2. 查看设备 udid， 3. 执行 rvictl -s udid （链接设备端口） 4. 查看 rvictl -l 5. 删除监听 rvictl -x udid
+
+14. ​
 
     ​
 
