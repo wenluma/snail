@@ -20,7 +20,8 @@
 
 11. git push --delete origin 0.1.5 #删除远端标签 0.1.5 , git push --tags更新标签
 
-12. ​
+12. [Web socket 抓包 wireshake](https://www.jianshu.com/p/eeb7fd12ef11)  filter:  ip.dst == 10.210.136.100 and tcp.port eq 8189 and websocket
+
 
     ​
 
