@@ -24,7 +24,9 @@
 
 13. Remote virtual interface 的使用，1. mac 链接 iphone； 2. 查看设备 udid， 3. 执行 rvictl -s udid （链接设备端口） 4. 查看 rvictl -l 5. 删除监听 rvictl -x udid
 
-14. ​
+14. [git change tag](https://stackoverflow.com/questions/8044583/how-can-i-move-a-tag-on-a-git-branch-to-a-different-commit)
+
+15. ​
 
     ​
 
