@@ -20,7 +20,7 @@
 
 11. git push --delete origin 0.1.5 #删除远端标签 0.1.5 , git push --tags更新标签
 
-12. [Web socket 抓包 wireshake](https://www.jianshu.com/p/eeb7fd12ef11)  filter:  ip.dst == 10.210.136.100 and tcp.port eq 8189 and websocket
+12. [Web socket 抓包 wireshark](https://www.jianshu.com/p/eeb7fd12ef11)  filter:  ip.dst == 10.210.136.100 and tcp.port eq 8189 and websocket
 
 13. Remote virtual interface 的使用，1. mac 链接 iphone； 2. 查看设备 udid， 3. 执行 rvictl -s udid （链接设备端口） 4. 查看 rvictl -l 5. 删除监听 rvictl -x udid
 
@@ -28,7 +28,9 @@
 
 15. [开源中国git的 gee码云](https://gitee.com/) ，[开源中国团队协作平台](http://team.oschina.net/)
 
-16. ​
+16. [Wireshark讲解](http://mrpeak.cn/blog/wireshark/)
+
+17. ​
 
     ​
 
