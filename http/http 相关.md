@@ -34,7 +34,9 @@
 
 18. [正则表达式](https://zh.wikipedia.org/wiki/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F)
 
-19. ​
+19. [swift filter,map,reduce,flatmap](https://medium.com/@abhimuralidharan/higher-order-functions-in-swift-filter-map-reduce-flatmap-1837646a63e8)
+
+20. ​
 
     ​
 
