@@ -36,7 +36,9 @@
 
 19. [swift filter,map,reduce,flatmap](https://medium.com/@abhimuralidharan/higher-order-functions-in-swift-filter-map-reduce-flatmap-1837646a63e8)
 
-20. ​
+20. [pod 降级安装 or 指定版本安装](https://stackoverflow.com/questions/20487849/how-to-downgrade-or-install-an-older-version-of-cocoapods)
+
+21. ​
 
     ​
 
