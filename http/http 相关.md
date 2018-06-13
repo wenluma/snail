@@ -40,7 +40,9 @@
 
 21. [iOS 自动化test命令行工具](https://github.com/facebook/xctool)
 
-22. ​
+22. [持续集成，自动打包，python 调用命令行工具](https://ruby-china.org/topics/30632)
+
+23. ​
 
     ​
 
