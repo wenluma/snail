@@ -38,7 +38,9 @@
 
 20. [pod 降级安装 or 指定版本安装](https://stackoverflow.com/questions/20487849/how-to-downgrade-or-install-an-older-version-of-cocoapods)
 
-21. ​
+21. [iOS 自动化test命令行工具](https://github.com/facebook/xctool)
+
+22. ​
 
     ​
 
