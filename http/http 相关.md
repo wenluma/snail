@@ -42,7 +42,7 @@
 
 22. [持续集成，自动打包，python 调用命令行工具](https://ruby-china.org/topics/30632)
 
-23. ​
+23. 在文件夹中，搜索(class)某一个字符串 `find .| xargs grep -ri "class" `,  `find .| xargs grep -ri "class" -l ` 。
 
     ​
 
