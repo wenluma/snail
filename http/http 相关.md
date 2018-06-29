@@ -44,6 +44,8 @@
 
 23. 在文件夹中，搜索(class)某一个字符串 `find .| xargs grep -ri "class" `,  `find .| xargs grep -ri "class" -l ` 。
 
+24. 解决更新 google  pod 失败时的设置，链接代理 `git config –global http.proxy 10.81.254.21:3128` 
+
     ​
 
 
