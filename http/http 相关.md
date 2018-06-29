@@ -46,6 +46,8 @@
 
 24. 解决更新 google  pod 失败时的设置，链接代理 `git config –global http.proxy 10.81.254.21:3128` 
 
+25. [按照paralles desktop 虚拟机](https://blog.csdn.net/weixin_41000111/article/details/79428402)
+
     ​
 
 
